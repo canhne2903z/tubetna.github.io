@@ -35,6 +35,7 @@ body {
   border-radius: 10px;
   background-color: var(--white-bg);
   transition: all 0.3s ease;
+  float: left;
 }
 .container.active {
   width: 250px;
